@@ -2,11 +2,11 @@
 this repo will be my notes, learning, findings etc. from the event
 
 ## TODO
-artical : "X takeaways from …"
-research / note taking, beforehand on imp topics
-list speaker and their tech details
-google topic with speaker , if already had links
-focuse on spark - ml, technical deep dive
+artical : "X takeaways from …"  
+research / note taking, beforehand on imp topics  
+list speaker and their tech details  
+google topic with speaker , if already had links  
+focuse on spark - ml, technical deep dive  
 
 
 ## My schedule
