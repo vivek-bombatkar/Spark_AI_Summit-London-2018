@@ -2,11 +2,11 @@
 this repo will be my notes, learning, findings etc. from the event
 
 ## TODO
-artical : "X takeaways from …" 
-  - ml pipeline
-  - spark ml
-  - spark inside code - Higher-order functions, rank in dataset search 
-  - spark devops - Lambda Architecture
+artical : "X takeaways from …"   
+  - ml pipeline  
+  - spark ml  
+  - spark inside code - Higher-order functions, rank in dataset search   
+  - spark devops - Lambda Architecture  
 research / note taking, beforehand on imp topics  
 list speaker and their tech details  
 google topic with speaker , if already had links  
@@ -16,10 +16,10 @@ focuse on spark - ml, technical deep dive
 ## My schedule
 
 ### 2-Oct
-prep course
-data science with saprk
-spark certif
-meetup
+- prep course  
+- data science with saprk - notebooks   
+- spark certif  
+- meetup - Natural Language Processing, Analyzing Astronomical Data with Apache Spark,  
 
 
 ### 3-Oct
