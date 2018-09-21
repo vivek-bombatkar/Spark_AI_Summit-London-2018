@@ -23,7 +23,7 @@ focuse on spark - ml, technical deep dive
 
 
 ### 3-Oct
-- "Deep Dive into Query Execution in Spark SQL 2.3  
+- * Deep Dive into Query Execution in Spark SQL 2.3  
   Jacek Laskowski
 different phases of query execution and the logical and physical optimizations."
 - "Deploying Machine Learning Models with Apache Spark  
@@ -52,14 +52,20 @@ common problems
   - anti-patterns
 
 ### 4-Oct
-Correctness and Performance of Apache Spark SQL  
-Apache Spark for RDBMS Practitioners: How I Learned to Stop Worrying and Love to Scale  
-Bucketing in Spark SQL 2.3  
-Lessons Learned Developing and Managing High Volume Apache Spark Pipelines in Production  
-MLflow: Infrastructure for a Complete Machine Learning Life Cycle  
-ML at the Edge: Building Your Production Pipeline with Apache Spark and TensorFlow  
-Using Spark ML on Spark Errors – What Do the Clusters Tell Us?  
-Sparklens: Understanding the Scalability Limits of Spark Applications  
-Spark SQL Catalyst Code Optimization using Function Outlining  
+- Correctness and Performance of Apache Spark SQL   
+  - random query generation  , random data generation, random fault injection, and longevity stress tests  
+  - automated benchmarking tools.
+- Using Deep Learning in Production Pipelines to Predict Consumers’ Interest
+- *Bucketing in Spark SQL 2.3  
+  - Jacek Laskowski   
+- Lessons Learned Developing and Managing High Volume Apache Spark Pipelines in Production  
+  - Pipelines
+- * MLflow: Infrastructure for a Complete Machine Learning Life Cycle  
+  - complete ML model life-cycle example
+- ML at the Edge: Building Your Production Pipeline with Apache Spark and TensorFlow  
+  - Pipeline
+- Using Spark ML on Spark Errors – What Do the Clusters Tell Us?  
+  - Holden Karau  
+- Sparklens: Understanding the Scalability Limits of Spark Applications    
+- Spark SQL Catalyst Code Optimization using Function Outlining    
 
-FlowSpec—Apache Spark Pipelines in Production  
