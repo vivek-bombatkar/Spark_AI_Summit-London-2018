@@ -3,14 +3,16 @@ this repo will be my notes, learning, findings etc. from the event
 
 ## TODO
 artical : "X takeaways from …"   
-  - ml pipeline  
-  - spark ml  
-  - spark inside code - Higher-order functions, rank in dataset search   
+  - the pipelines      
+  - spark ml in prod   
+  - spark inside 
+    - Higher-order functions  
+    - rank in dataset search     
+    - Query Execution  
+    - Rank Datasets  
+    - Bucketing in Spark   
+    - Catalyst Code Optimization  
   - spark devops - Lambda Architecture  
-research / note taking, beforehand on imp topics  
-list speaker and their tech details  
-google topic with speaker , if already had links  
-focuse on spark - ml, technical deep dive  
 
 
 ## My schedule
@@ -51,7 +53,7 @@ common problems
 - Lessons from the Field, Episode II: Applying Best Practices to Your Apache Spark Applications  
   - anti-patterns
 
-### 4-Oct
+### 4-Oct  
 - Correctness and Performance of Apache Spark SQL   
   - random query generation  , random data generation, random fault injection, and longevity stress tests  
   - automated benchmarking tools.
