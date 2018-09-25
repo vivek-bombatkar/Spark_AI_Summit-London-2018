@@ -57,7 +57,8 @@ common problems
 - Correctness and Performance of Apache Spark SQL   
   - random query generation  , random data generation, random fault injection, and longevity stress tests  
   - automated benchmarking tools.
-- Using Deep Learning in Production Pipelines to Predict Consumers’ Interest
+- Navigating the ML Pipeline Jungle with MLflow: Notes from the Field  
+  -  Thunder Shiviah
 - *Bucketing in Spark SQL 2.3  
   - Jacek Laskowski   
 - Lessons Learned Developing and Managing High Volume Apache Spark Pipelines in Production  
