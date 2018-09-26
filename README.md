@@ -70,5 +70,5 @@ common problems
 - Using Spark ML on Spark Errors – What Do the Clusters Tell Us?  
   - Holden Karau  
 - Sparklens: Understanding the Scalability Limits of Spark Applications    
-- Spark SQL Catalyst Code Optimization using Function Outlining    
+- Learning to Rank with Apache Spark: A Case Study in Production Machine Learning    
 
